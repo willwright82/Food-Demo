@@ -19,6 +19,9 @@ gem 'puma', '~> 3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# Use Foreman for managing multiple processes
+gem 'foreman', '~> 0.83.0'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
